@@ -24,17 +24,3 @@ This application helps manage books, users, and borrowing transactions.
 
 ---
 
-🗂️ Project Structure
-
-Library-Management-System/
-├── src/
-│   ├── Main.java
-│   ├── dao/
-│   │   ├── BookDAO.java
-│   │   ├── UserDAO.java
-│   │   └── TransactionDAO.java
-│   └── model/
-│       ├── Book.java
-│       ├── User.java
-│       └── Transaction.java
-└── lib/
